@@ -1,42 +1,23 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
+## LAB: Dynamic Forms
 
-## Project Name
+### Author: Siobhan Niess
 
-### Author: Student/Group Name
+## Assignment 1: Implement the RESTful Reducers
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://codesandbox.io/s/5z15562pz4)
+* [site](https://5z15562pz4.codesandbox.io/)
 
 ### Modules
-#### `modulename.js`
+* `/index.js`
+
 ##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* `components/app.js`
+* `components/player.js`
+* `components/store/index.js`
+* `components/store/players-actions.js`
+* `components/store/players-reducer.js`
+* `components/store/middleware/reporter.js`
 
 #### UML
-Link to an image of the UML for your application and response to events
+![]()
